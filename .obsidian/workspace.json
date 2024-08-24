@@ -11,8 +11,12 @@
             "id": "3b1880b9411c320c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/临时笔记.ubuntu.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -23,7 +27,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,8 +181,14 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "85171bd54bbf6bfd",
+  "active": "be230fdb3e9e4031",
   "lastOpenFiles": [
+    "notes/daily.journal.2024.08.24.md",
+    "notes/templates.daily.md",
+    "notes/dendron.daily.schema.yml",
+    "notes/临时笔记.ubuntu.zsh.md",
+    "notes/临时笔记.ubuntu.md",
+    "notes/临时笔记.md",
     "seeds/dendron.dendron-site/scripts/watch-release.sh",
     "seeds/dendron.dendron-site/scripts/update-deps.sh",
     "seeds/dendron.dendron-site/scripts/relink.sh",
@@ -187,8 +198,6 @@
     "seeds/dendron.dendron-site/scripts/gen-cheatsheet.sh",
     "seeds/dendron.dendron-site/scripts/dev.sh",
     "seeds/dendron.dendron-site/scripts/check_links.sh",
-    "seeds/dendron.dendron-site/scripts/build.sh",
-    "seeds/dendron.dendron-site/scripts",
     "seeds/dendron.dendron-site/vault/user.example.username.md",
     "seeds/dendron.dendron-site/vault/tutorial.quickstart-with-lock.md",
     "seeds/dendron.dendron-site/vault/tutorial.quickstart-v1.md",
@@ -210,10 +219,6 @@
     "seeds/dendron.dendron-site/vault/templates.md",
     "seeds/dendron.dendron-site/vault/templates.greenhouse-talk.md",
     "seeds/dendron.dendron-site/vault/templates.feature.md",
-    "seeds/dendron.dendron-site/vault/templates.contribute.md",
-    "seeds/dendron.dendron-site/vault/templates.community.md",
-    "seeds/dendron.dendron-site/vault/templates.common-notices.md",
-    "seeds/dendron.dendron-site/vault/templates.cli.md",
     "seeds/dendron.dendron-site/vault/assets/images/logo.png",
     "seeds/dendron.dendron-site/vault/assets/images/logo-banner.png",
     "seeds/dendron.dendron-site/vault/assets/images/2021-06-29-16-56-34.png",
