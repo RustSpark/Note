@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "b45143e82c25371f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d5126748f4f05f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b1880b9411c320c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "todos/2024-08-21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be230fdb3e9e4031",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee3c43cc22701200",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8784dac805409eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85171bd54bbf6bfd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd52241fdbacf4c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3bb545e493864ce3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2fd923b4f5593bb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd04fb4520fffd65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8368f5bc6ac48aa5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "todos/2024-08-21.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "78877c45fc9641c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "todos/2024-08-21.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0ab2f5d645bd85b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8aaec025dff4e76e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "todos/2024-08-21.md"
+              }
+            }
+          },
+          {
+            "id": "f7ab815ae4ea8f5e",
+            "type": "leaf",
+            "state": {
+              "type": "daily-note-outline",
+              "state": {
+                "activeSet": 0,
+                "activeGranularity": 0
+              }
+            }
+          },
+          {
+            "id": "2f24ead69f2ae16a",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "9f52eef20c5be0dc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "pomodoro-timer:Toggle timer panel": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "vscode-editor:Create Code File": false
+    }
+  },
+  "active": "85171bd54bbf6bfd",
+  "lastOpenFiles": [
+    "seeds/dendron.dendron-site/vault/user.example.md",
+    "notes/test.schema.yml",
+    "notes/task.2024.08.md",
+    "notes/task.md",
+    "notes/task.2024.08.24.md",
+    "notes/test.journal.2024.08.24.md",
+    "seeds/dendron.dendron-site/vault/dendron-site.code-search",
+    "notes/test.hello.md",
+    "notes/test.md",
+    "seeds/dendron.dendron-site/vault/user.md",
+    "notes/root.schema.yml",
+    "seeds/dendron.dendron-site/publish/components/BannerAlert.tsx",
+    "seeds/dendron.dendron-site/publish/components",
+    "seeds/dendron.dendron-site/publish",
+    "seeds/dendron.dendron-site/pods/dendron.pod.json/config.import.yml",
+    "seeds/dendron.dendron-site/pods/dendron.pod.json/config.export.yml",
+    "seeds/dendron.dendron-site/pods/dendron.pod.file/config.import.yml",
+    "seeds/dendron.dendron-site/pods/dendron.notion/config.export.yml",
+    "seeds/dendron.dendron-site/vault/assets/images/logo.png",
+    "seeds/dendron.dendron-site/vault/assets/images/logo-banner.png",
+    "seeds/dendron.dendron-site/vault/assets/images/2021-06-29-16-56-34.png",
+    "seeds/dendron.dendron-site/vault/assets/images/2021-06-29-16-52-17.png",
+    "seeds/dendron.dendron-site/vault/assets/images/2021-05-29-00-38-50.png",
+    "seeds/dendron.dendron-site/vault/assets/images/2021-05-18-15-29-51.png",
+    "seeds/dendron.dendron-site/vault/assets/images/2021-05-16-11-38-06.png",
+    "seeds/dendron.dendron-site/vault/assets/images/2021-03-27-13-13-02.png",
+    "seeds/dendron.dendron-site/vault/assets/images/2021-03-16-10-29-28.png",
+    "seeds/dendron.dendron-site/vault/assets/images/2021-03-16-10-29-08.png",
+    "seeds/dendron.dendron-site/vault/user.example.username.md",
+    "seeds/dendron.dendron-site/vault/tutorial.quickstart-with-lock.md",
+    "seeds/dendron.dendron-site/vault/tutorial.quickstart-v1.md",
+    "seeds/dendron.dendron-site/vault/tutorial.quickstart-skip-welcome.md",
+    "seeds/dendron.dendron-site/vault/tutorial.original.user-interface.md",
+    "seeds/dendron.dendron-site/vault/tutorial.original.rich-formatting.md",
+    "seeds/dendron.dendron-site/vault/tutorial.original.taking-notes.md",
+    "seeds/dendron.dendron-site/vault/tutorial.original.md",
+    "seeds/dendron.dendron-site/vault/tutorial.original.linking-notes.md",
+    "seeds/dendron.dendron-site/vault/tutorial.original.conclusion.md",
+    "seeds/dendron.dendron-site/vault/tutorial.no-refactor.user-interface.md",
+    "seeds/dendron.dendron-site/vault/tutorial.no-refactor.taking-notes.md",
+    "seeds/dendron.dendron-site/vault/tutorial.no-refactor.rich-formatting.md",
+    "seeds/dendron.dendron-site/vault/tutorial.no-refactor.md",
+    "seeds/dendron.dendron-site/vault/tutorial.no-refactor.linking-notes.md",
+    "seeds/dendron.dendron-site/vault/tutorial.md",
+    "seeds/dendron.dendron-site/vault/tutorial.no-refactor.conclusion.md",
+    "seeds/dendron.dendron-site/vault/tutorial.main.user-interface.md",
+    "Untitled.canvas"
+  ]
+}
