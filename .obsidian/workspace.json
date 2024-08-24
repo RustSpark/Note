@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0d5126748f4f05f8",
+        "id": "e04ec996b8f70015",
         "type": "tabs",
         "children": [
           {
-            "id": "3b1880b9411c320c",
+            "id": "cc75556e84667044",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,17 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "be230fdb3e9e4031",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,6 +64,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "35d297283d21e753",
+            "type": "leaf",
+            "state": {
+              "type": "dendron-tree-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -94,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/临时笔记.ubuntu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/临时笔记.ubuntu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/临时笔记.ubuntu.md"
+              }
             }
           },
           {
@@ -178,17 +181,21 @@
       "command-palette:Open command palette": false,
       "pomodoro-timer:Toggle timer panel": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "vscode-editor:Create Code File": false
+      "vscode-editor:Create Code File": false,
+      "dendron-tree:Open Dendron Tree": false
     }
   },
-  "active": "be230fdb3e9e4031",
+  "active": "85171bd54bbf6bfd",
   "lastOpenFiles": [
+    "notes/临时笔记.ubuntu.zsh.md",
+    "notes/root.md",
+    "notes/临时笔记.ubuntu.md",
+    "notes/临时笔记.md",
+    "root.md",
+    "test.md",
     "notes/daily.journal.2024.08.24.md",
     "notes/templates.daily.md",
     "notes/dendron.daily.schema.yml",
-    "notes/临时笔记.ubuntu.zsh.md",
-    "notes/临时笔记.ubuntu.md",
-    "notes/临时笔记.md",
     "seeds/dendron.dendron-site/scripts/watch-release.sh",
     "seeds/dendron.dendron-site/scripts/update-deps.sh",
     "seeds/dendron.dendron-site/scripts/relink.sh",
@@ -216,9 +223,6 @@
     "seeds/dendron.dendron-site/vault/templates.release.md",
     "seeds/dendron.dendron-site/vault/templates.partial.md",
     "seeds/dendron.dendron-site/vault/templates.partial.lookup.md",
-    "seeds/dendron.dendron-site/vault/templates.md",
-    "seeds/dendron.dendron-site/vault/templates.greenhouse-talk.md",
-    "seeds/dendron.dendron-site/vault/templates.feature.md",
     "seeds/dendron.dendron-site/vault/assets/images/logo.png",
     "seeds/dendron.dendron-site/vault/assets/images/logo-banner.png",
     "seeds/dendron.dendron-site/vault/assets/images/2021-06-29-16-56-34.png",
