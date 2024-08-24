@@ -11,12 +11,8 @@
             "id": "3b1880b9411c320c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "todos/2024-08-21.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todos/2024-08-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "todos/2024-08-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "todos/2024-08-21.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,24 +178,42 @@
   },
   "active": "85171bd54bbf6bfd",
   "lastOpenFiles": [
-    "seeds/dendron.dendron-site/vault/user.example.md",
-    "notes/test.schema.yml",
-    "notes/task.2024.08.md",
-    "notes/task.md",
-    "notes/task.2024.08.24.md",
-    "notes/test.journal.2024.08.24.md",
-    "seeds/dendron.dendron-site/vault/dendron-site.code-search",
-    "notes/test.hello.md",
-    "notes/test.md",
-    "seeds/dendron.dendron-site/vault/user.md",
-    "notes/root.schema.yml",
-    "seeds/dendron.dendron-site/publish/components/BannerAlert.tsx",
-    "seeds/dendron.dendron-site/publish/components",
-    "seeds/dendron.dendron-site/publish",
-    "seeds/dendron.dendron-site/pods/dendron.pod.json/config.import.yml",
-    "seeds/dendron.dendron-site/pods/dendron.pod.json/config.export.yml",
-    "seeds/dendron.dendron-site/pods/dendron.pod.file/config.import.yml",
-    "seeds/dendron.dendron-site/pods/dendron.notion/config.export.yml",
+    "seeds/dendron.dendron-site/scripts/watch-release.sh",
+    "seeds/dendron.dendron-site/scripts/update-deps.sh",
+    "seeds/dendron.dendron-site/scripts/relink.sh",
+    "seeds/dendron.dendron-site/scripts/publish.sh",
+    "seeds/dendron.dendron-site/scripts/release.sh",
+    "seeds/dendron.dendron-site/scripts/gen-release-notes.js",
+    "seeds/dendron.dendron-site/scripts/gen-cheatsheet.sh",
+    "seeds/dendron.dendron-site/scripts/dev.sh",
+    "seeds/dendron.dendron-site/scripts/check_links.sh",
+    "seeds/dendron.dendron-site/scripts/build.sh",
+    "seeds/dendron.dendron-site/scripts",
+    "seeds/dendron.dendron-site/vault/user.example.username.md",
+    "seeds/dendron.dendron-site/vault/tutorial.quickstart-with-lock.md",
+    "seeds/dendron.dendron-site/vault/tutorial.quickstart-v1.md",
+    "seeds/dendron.dendron-site/vault/tutorial.quickstart-skip-welcome.md",
+    "seeds/dendron.dendron-site/vault/tutorial.original.user-interface.md",
+    "seeds/dendron.dendron-site/vault/tutorial.original.taking-notes.md",
+    "seeds/dendron.dendron-site/vault/tutorial.original.rich-formatting.md",
+    "seeds/dendron.dendron-site/vault/tutorial.original.md",
+    "seeds/dendron.dendron-site/vault/tutorial.original.linking-notes.md",
+    "seeds/dendron.dendron-site/vault/templates.topic.config.property.md",
+    "seeds/dendron.dendron-site/vault/templates.topic.config.namespace.md",
+    "seeds/dendron.dendron-site/vault/templates.tags.scope.md",
+    "seeds/dendron.dendron-site/vault/templates.tags.feature.md",
+    "seeds/dendron.dendron-site/vault/templates.release.weekly-team-announcement.md",
+    "seeds/dendron.dendron-site/vault/templates.release.weekly-public-announcement.md",
+    "seeds/dendron.dendron-site/vault/templates.release.md",
+    "seeds/dendron.dendron-site/vault/templates.partial.md",
+    "seeds/dendron.dendron-site/vault/templates.partial.lookup.md",
+    "seeds/dendron.dendron-site/vault/templates.md",
+    "seeds/dendron.dendron-site/vault/templates.greenhouse-talk.md",
+    "seeds/dendron.dendron-site/vault/templates.feature.md",
+    "seeds/dendron.dendron-site/vault/templates.contribute.md",
+    "seeds/dendron.dendron-site/vault/templates.community.md",
+    "seeds/dendron.dendron-site/vault/templates.common-notices.md",
+    "seeds/dendron.dendron-site/vault/templates.cli.md",
     "seeds/dendron.dendron-site/vault/assets/images/logo.png",
     "seeds/dendron.dendron-site/vault/assets/images/logo-banner.png",
     "seeds/dendron.dendron-site/vault/assets/images/2021-06-29-16-56-34.png",
@@ -214,24 +224,6 @@
     "seeds/dendron.dendron-site/vault/assets/images/2021-03-27-13-13-02.png",
     "seeds/dendron.dendron-site/vault/assets/images/2021-03-16-10-29-28.png",
     "seeds/dendron.dendron-site/vault/assets/images/2021-03-16-10-29-08.png",
-    "seeds/dendron.dendron-site/vault/user.example.username.md",
-    "seeds/dendron.dendron-site/vault/tutorial.quickstart-with-lock.md",
-    "seeds/dendron.dendron-site/vault/tutorial.quickstart-v1.md",
-    "seeds/dendron.dendron-site/vault/tutorial.quickstart-skip-welcome.md",
-    "seeds/dendron.dendron-site/vault/tutorial.original.user-interface.md",
-    "seeds/dendron.dendron-site/vault/tutorial.original.rich-formatting.md",
-    "seeds/dendron.dendron-site/vault/tutorial.original.taking-notes.md",
-    "seeds/dendron.dendron-site/vault/tutorial.original.md",
-    "seeds/dendron.dendron-site/vault/tutorial.original.linking-notes.md",
-    "seeds/dendron.dendron-site/vault/tutorial.original.conclusion.md",
-    "seeds/dendron.dendron-site/vault/tutorial.no-refactor.user-interface.md",
-    "seeds/dendron.dendron-site/vault/tutorial.no-refactor.taking-notes.md",
-    "seeds/dendron.dendron-site/vault/tutorial.no-refactor.rich-formatting.md",
-    "seeds/dendron.dendron-site/vault/tutorial.no-refactor.md",
-    "seeds/dendron.dendron-site/vault/tutorial.no-refactor.linking-notes.md",
-    "seeds/dendron.dendron-site/vault/tutorial.md",
-    "seeds/dendron.dendron-site/vault/tutorial.no-refactor.conclusion.md",
-    "seeds/dendron.dendron-site/vault/tutorial.main.user-interface.md",
     "Untitled.canvas"
   ]
 }
