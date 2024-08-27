@@ -3,6 +3,9 @@
     {
       "path": "notes",
       "name": "Note"
+    },
+    {
+      "path": "flomo"
     }
   ],
   "settings": {
