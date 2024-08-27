@@ -16,11 +16,35 @@
 	// 	"description": "Log output to console"
 	// }
 	"Generate Tag": {
-		"prefix": "flo tag",
+		"prefix": "flo-tag",
 		"body": [
 			"#${TM_DIRECTORY/.*[\\\/\\\\](.*)/$1/}/$TM_FILENAME_BASE",
 			"",
 			"$0"
+		]
+	},
+	"flo done": {
+		"prefix": "flo-done",
+		"body": [
+			"### FLOMO DONE",
+		]
+	},
+	"flo doing": {
+		"prefix": "flo-doing",
+		"body": [
+			"### FLOMO DOING"
+		]
+	},
+	"flo wait": {
+		"prefix": "flo-wait",
+		"body": [
+			"### FLOMO WAIT",
+		]
+	},
+	"flo error": {
+		"prefix": "flo-error",
+		"body": [
+			"### FLOMO ERROR",
 		]
 	}
 }
