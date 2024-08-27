@@ -20,7 +20,10 @@
     "editor.suggest.showSnippets": true,
     "editor.tabCompletion": "on",
     "dendron.enableSelfContainedVaultWorkspace": true,
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "files.associations": {
+      "*.html": "mako"
+    }
   },
   "extensions": {
     "recommendations": [
