@@ -23,7 +23,11 @@
     "editor.formatOnSave": true,
     "files.associations": {
       "*.html": "mako"
-    }
+    },
+    "flomo.publicApiKey": "https://flomoapp.com/iwh/MTI0Mjgx/d2310c2ceaa9582c1f972314ef42d089/",
+    "obsidian-md-vsc.defaultVault": "Note",
+    "obsidian-md-vsc.defaultVaultPath": "D:\\Note",
+    "obsidian-md-vsc.defaultNote": "notes\\root"
   },
   "extensions": {
     "recommendations": [
