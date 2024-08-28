@@ -73,11 +73,6 @@ workspace:
     maxNoteLength: 204800
     enableFullHierarchyNoteTitle: false
     enablePersistentHistory: false
-    seeds:
-        dendron.dendron-site:
-            site:
-                url: https://wiki.dendron.so
-                index: dendron
 preview:
     enableFMTitle: true
     enableNoteTitleForLink: true
