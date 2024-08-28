@@ -1,48 +1,48 @@
 {
-  "folders": [
-    {
-      "path": "notes",
-      "name": "Note"
-    },
-    {
-      "path": "flomo"
-    }
-  ],
-  "settings": {
-    "dendron.rootDir": ".",
-    "files.autoSave": "onFocusChange",
-    "pasteImage.path": "${currentFileDir}/assets/images",
-    "pasteImage.prefix": "/",
-    "markdown-preview-enhanced.enableWikiLinkSyntax": true,
-    "markdown-preview-enhanced.wikiLinkFileExtension": ".md",
-    "editor.snippetSuggestions": "inline",
-    "editor.suggest.snippetsPreventQuickSuggestions": false,
-    "editor.suggest.showSnippets": true,
-    "editor.tabCompletion": "on",
-    "dendron.enableSelfContainedVaultWorkspace": true,
-    "editor.formatOnSave": true,
-    "files.associations": {
-      "*.html": "mako"
-    },
-    "flomo.publicApiKey": "https://flomoapp.com/iwh/MTI0Mjgx/d2310c2ceaa9582c1f972314ef42d089/",
-    "obsidian-md-vsc.defaultVault": "Note",
-    "obsidian-md-vsc.defaultVaultPath": "D:\\Note",
-    "obsidian-md-vsc.defaultNote": "notes\\root"
-  },
-  "extensions": {
-    "recommendations": [
-      "dendron.dendron",
-      "dendron.dendron-paste-image",
-      "dendron.dendron-markdown-shortcuts",
-      "redhat.vscode-yaml"
+    "folders": [
+        {
+            "path": "notes",
+            "name": "Note"
+        },
+        {
+            "path": "flomo"
+        }
     ],
-    "unwantedRecommendations": [
-      "dendron.dendron-markdown-links",
-      "dendron.dendron-markdown-notes",
-      "dendron.dendron-markdown-preview-enhanced",
-      "shd101wyy.markdown-preview-enhanced",
-      "kortina.vscode-markdown-notes",
-      "mushan.vscode-paste-image"
-    ]
-  }
+    "settings": {
+        "dendron.rootDir": ".",
+        "files.autoSave": "onFocusChange",
+        "pasteImage.path": "${currentFileDir}/assets/images",
+        "pasteImage.prefix": "/",
+        "markdown-preview-enhanced.enableWikiLinkSyntax": true,
+        "markdown-preview-enhanced.wikiLinkFileExtension": ".md",
+        "editor.snippetSuggestions": "inline",
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggest.showSnippets": true,
+        "editor.tabCompletion": "on",
+        "dendron.enableSelfContainedVaultWorkspace": true,
+        "editor.formatOnSave": true,
+        "files.associations": {
+            "*.html": "mako"
+        },
+        "flomo.publicApiKey": "https://flomoapp.com/iwh/MTI0Mjgx/d2310c2ceaa9582c1f972314ef42d089/",
+        "obsidian-md-vsc.defaultVault": "Note",
+        "obsidian-md-vsc.defaultVaultPath": "D:\\Note",
+        "obsidian-md-vsc.defaultNote": "notes\\root"
+    },
+    "extensions": {
+        "recommendations": [
+            "dendron.dendron",
+            "dendron.dendron-paste-image",
+            "dendron.dendron-markdown-shortcuts",
+            "redhat.vscode-yaml"
+        ],
+        "unwantedRecommendations": [
+            "dendron.dendron-markdown-links",
+            "dendron.dendron-markdown-notes",
+            "dendron.dendron-markdown-preview-enhanced",
+            "shd101wyy.markdown-preview-enhanced",
+            "kortina.vscode-markdown-notes",
+            "mushan.vscode-paste-image"
+        ]
+    }
 }

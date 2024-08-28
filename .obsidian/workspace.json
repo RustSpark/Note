@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/临时笔记.版本控制.md",
+                "file": "flomo/Inbox/笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/临时笔记.版本控制.md",
+                "file": "flomo/Inbox/笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/临时笔记.版本控制.md",
+                "file": "flomo/Inbox/笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/临时笔记.版本控制.md"
+                "file": "flomo/Inbox/笔记.md"
               }
             }
           },
@@ -187,6 +187,17 @@
   },
   "active": "e2bda329c9aa88b7",
   "lastOpenFiles": [
+    "notes/临时笔记.图像视觉.md",
+    "notes/临时笔记.图像视觉.ffmpeg.md",
+    "notes/临时笔记.版本控制.md",
+    "dependencies/localhost/flomo/root.schema.yml",
+    "dependencies/localhost/flomo/root.md",
+    "dependencies/localhost/flomo/Inbox/笔记.md",
+    "dependencies/localhost/flomo/Inbox",
+    "dependencies/localhost/flomo",
+    "dependencies/localhost",
+    "dependencies",
+    "flomo/Inbox/笔记.md",
     "notes/临时笔记.编辑器.md",
     "notes/临时笔记.ubuntu.zsh.md",
     "notes/临时笔记.centos.md",
@@ -203,11 +214,6 @@
     "seeds/dendron.dendron-site/scripts/update-deps.sh",
     "seeds/dendron.dendron-site/scripts/relink.sh",
     "seeds/dendron.dendron-site/scripts/publish.sh",
-    "seeds/dendron.dendron-site/scripts/release.sh",
-    "seeds/dendron.dendron-site/scripts/gen-release-notes.js",
-    "seeds/dendron.dendron-site/scripts/gen-cheatsheet.sh",
-    "seeds/dendron.dendron-site/scripts/dev.sh",
-    "seeds/dendron.dendron-site/scripts/check_links.sh",
     "seeds/dendron.dendron-site/vault/user.example.username.md",
     "seeds/dendron.dendron-site/vault/tutorial.quickstart-with-lock.md",
     "seeds/dendron.dendron-site/vault/tutorial.quickstart-v1.md",
@@ -217,12 +223,6 @@
     "seeds/dendron.dendron-site/vault/tutorial.original.rich-formatting.md",
     "seeds/dendron.dendron-site/vault/tutorial.original.md",
     "seeds/dendron.dendron-site/vault/tutorial.original.linking-notes.md",
-    "seeds/dendron.dendron-site/vault/templates.topic.config.property.md",
-    "seeds/dendron.dendron-site/vault/templates.topic.config.namespace.md",
-    "seeds/dendron.dendron-site/vault/templates.tags.scope.md",
-    "seeds/dendron.dendron-site/vault/templates.tags.feature.md",
-    "seeds/dendron.dendron-site/vault/templates.release.weekly-team-announcement.md",
-    "seeds/dendron.dendron-site/vault/templates.release.weekly-public-announcement.md",
     "seeds/dendron.dendron-site/vault/assets/images/logo.png",
     "seeds/dendron.dendron-site/vault/assets/images/logo-banner.png",
     "seeds/dendron.dendron-site/vault/assets/images/2021-06-29-16-56-34.png",

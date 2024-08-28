@@ -26,25 +26,35 @@
 	"flo done": {
 		"prefix": "flo-done",
 		"body": [
-			"### FLOMO DONE",
+			" ✔️",
 		]
 	},
 	"flo doing": {
 		"prefix": "flo-doing",
 		"body": [
-			"### FLOMO DOING"
+			" 🕗"
 		]
 	},
 	"flo wait": {
 		"prefix": "flo-wait",
 		"body": [
-			"### FLOMO WAIT",
+			" ⏳",
 		]
 	},
 	"flo error": {
 		"prefix": "flo-error",
 		"body": [
-			"### FLOMO ERROR",
+			" ❗",
+		]
+	},
+	"flo header": {
+		"prefix": "flo-header",
+		"body": [
+			"---",
+			"File: ${TM_FILENAME}",
+			"Created: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE} ${CURRENT_HOUR}:${CURRENT_MINUTE}:${CURRENT_SECOND}",
+			"Description: ",
+			"---"
 		]
 	}
 }
